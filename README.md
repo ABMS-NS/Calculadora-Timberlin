@@ -44,5 +44,14 @@ Um aplicativo simples, direto e estilizado feito em Python com Flet para calcula
 ## 🧪 Requisitos (caso vá rodar direto do código-fonte)
 
 - Python 3.10+
-- Biblioteca Flet  
-  Instale com:  
+- Biblioteca Flet
+  > Instale com: pip install flet
+- Arquivo `funcs.py` contendo as funções de cálculo:
+- `Vida.calcular`
+- `Alma.calcular`
+- `Estamina.calcular`
+- `Espirito.calcular`
+
+---
+
+
